@@ -1,0 +1,27 @@
+[
+  {
+    "projectName": "Server Migration",
+    "projectCompletion": "20%",
+    "color": "bg-danger"
+  },
+  {
+    "projectName": "Sales Tracking",
+    "projectCompletion": "40%",
+    "color": "bg-warning"
+  },
+  {
+    "projectName": "Customer Database",
+    "projectCompletion": "60%",
+    "color": ""
+  },
+  {
+    "projectName": "Payout Details",
+    "projectCompletion": "80%",
+    "color": "bg-info"
+  },
+  {
+    "projectName": "Account Setup",
+    "projectCompletion": "100%",
+    "color": "bg-success"
+  }
+]

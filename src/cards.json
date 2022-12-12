@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Earnings (Monthly)",
+    "data": "$40,000",
+    "icon": "faCalendar",
+    "color": "primary"
+  },
+  {
+    "title": "Earnings (Anually)",
+    "data": "$215,000",
+    "icon": "faDollarSign",
+    "color": "success"
+  },
+  {
+    "title": "Tasks",
+    "data": "50%",
+    "icon": "faClipboardList",
+    "color": "info"
+  },
+  {
+    "title": "Pending requests",
+    "data": "18",
+    "icon": "faComments",
+    "color": "warning"
+  }
+]

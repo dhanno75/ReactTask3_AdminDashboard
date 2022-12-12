@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Primary",
+    "color": "bg-primary",
+    "colorName": "#4e73df"
+  },
+  {
+    "name": "Success",
+    "color": "bg-success",
+    "colorName": "#1cc88a"
+  },
+  {
+    "name": "Info",
+    "color": "bg-info",
+    "colorName": "#36b9cc"
+  },
+  {
+    "name": "Warning",
+    "color": "bg-warning",
+    "colorName": "#f6c23e"
+  },
+  {
+    "name": "Danger",
+    "color": "bg-danger",
+    "colorName": "#e74a3b"
+  },
+  {
+    "name": "Secondary",
+    "color": "bg-secondary",
+    "colorName": "#858796"
+  },
+  {
+    "name": "Light",
+    "color": "bg-light",
+    "colorName": "#f8f9fc"
+  },
+  {
+    "name": "Dark",
+    "color": "bg-dark",
+    "colorName": "#5a5c69"
+  }
+]
